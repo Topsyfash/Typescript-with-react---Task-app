@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Typescript-with-react---Task-app/static/css/main.7dbbabd9.css",
+    "main.js": "/Typescript-with-react---Task-app/static/js/main.c4b8dfd2.js",
+    "index.html": "/Typescript-with-react---Task-app/index.html",
+    "main.7dbbabd9.css.map": "/Typescript-with-react---Task-app/static/css/main.7dbbabd9.css.map",
+    "main.c4b8dfd2.js.map": "/Typescript-with-react---Task-app/static/js/main.c4b8dfd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbbabd9.css",
+    "static/js/main.c4b8dfd2.js"
+  ]
+}
